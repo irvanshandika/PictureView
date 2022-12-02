@@ -1,0 +1,11 @@
+D:\PemrogramanLanjut\PictureView\bin\Debug\PictureView.exe.config
+D:\PemrogramanLanjut\PictureView\bin\Debug\PictureView.exe
+D:\PemrogramanLanjut\PictureView\bin\Debug\PictureView.pdb
+D:\PemrogramanLanjut\PictureView\obj\Debug\PictureView.csproj.AssemblyReference.cache
+D:\PemrogramanLanjut\PictureView\obj\Debug\PictureView.csproj.SuggestedBindingRedirects.cache
+D:\PemrogramanLanjut\PictureView\obj\Debug\PictureView.Form1.resources
+D:\PemrogramanLanjut\PictureView\obj\Debug\PictureView.Properties.Resources.resources
+D:\PemrogramanLanjut\PictureView\obj\Debug\PictureView.csproj.GenerateResource.cache
+D:\PemrogramanLanjut\PictureView\obj\Debug\PictureView.csproj.CoreCompileInputs.cache
+D:\PemrogramanLanjut\PictureView\obj\Debug\PictureView.exe
+D:\PemrogramanLanjut\PictureView\obj\Debug\PictureView.pdb
